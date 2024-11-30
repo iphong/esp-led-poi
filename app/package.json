@@ -3,7 +3,7 @@
     "@mdi/font": "^5.9.55",
     "jquery": "^3.5.1",
     "jquery-slim": "^3.0.0",
-    "jszip": "^3.7.0",
+    "jszip": "^3.8.0",
     "lodash": "^4.17.21",
     "material-design-icons": "^3.0.1",
     "micromodal": "^0.4.10",
