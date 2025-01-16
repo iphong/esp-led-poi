@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Must use Node 16. Node 17 and greater will throw errors and build will fail
+
 cd app
 yarn install
 npx webpack
